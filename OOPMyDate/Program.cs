@@ -10,6 +10,8 @@ namespace OOPMyDate
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("OOP My Date!");
+            Console.ReadKey();
         }
     }
 }
